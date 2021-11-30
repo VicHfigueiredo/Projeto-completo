@@ -1,0 +1,18 @@
+
+.container{
+    background:aquamarine; 
+}
+
+
+.body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:aquamarine; 
+}
+ 
+.formlogin {
+    margin: 20%;
+    padding: 4%;
+}
